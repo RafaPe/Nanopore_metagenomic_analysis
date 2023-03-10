@@ -32,7 +32,7 @@ conda install -c bioconda yacrd
 
 
 ## Pre-processing summary
-| Sample ID | Sample name Rstudio | Raw data | After porechop | After trimming and filtering | After chimera removal |
+| Sample ID | Sample name Rstudio | Raw data | After porechop | After filtering | After chimera removal |
 |-----------|---------------------|----------|----------------|------------------------------|-----------------------|
 | BC01      | Z1_16S              | 8116     | 7970           | 7037                         | 7004                  |
 | BC02      | Z2_16S              | 5397     | 5244           | 4405                         | 4397                  |
