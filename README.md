@@ -36,4 +36,9 @@ conda install -c bioconda yacrd
 | BC04      | Z4_16S              | 5282     | 5087           | 4212                         | 4208                  |
 
 ## Taxonomy analysis result
-
+<p align="center">
+    <img src="files/r_generated/BC01_rnn.png" width="300">
+    <img src="files/r_generated/BC02_rnn.png" width="300">
+    <img src="files/r_generated/BC03_rnn.png" width="300">
+    <img src="files/r_generated/BC04_rnn.png" width="300">
+<p>
