@@ -26,6 +26,10 @@ conda install -c bioconda yacrd
 ```
 
 ## Workflow
+<p align="center">
+    <img src="figsworkflow_diagram.drawio.png" width="700">
+<p>
+
 
 ## Pre-processing summary
 | Sample ID | Sample name Rstudio | Raw data | After porechop | After trimming and filtering | After chimera removal |
