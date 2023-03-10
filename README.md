@@ -37,19 +37,19 @@ conda install -c bioconda yacrd
 
 ## Taxonomy analysis result
 We used the [rnn](https://github.com/alfbenpa/rrn_db) database "operon.100.fa" to map the operons found by minimap2 and used ggplot2 to plot the results
-- Results for BC01 sample
+a) Results for BC01 sample
 <p align="center">
-    <img src="files/r_generated/BC01_rnn.png" width="700">
+    <img src="files/r_generated/BC01_rnn.png" width="750">
 <p>
-- Results for BC02 sample
+b) Results for BC02 sample
 <p align="center">
-    <img src="files/r_generated/BC02_rnn.png" width="700">
+    <img src="files/r_generated/BC02_rnn.png" width="750">
 <p>
-- Results for BC03 sample
+c) Results for BC03 sample
 <p align="center">
-    <img src="files/r_generated/BC03_rnn.png" width="700">
+    <img src="files/r_generated/BC03_rnn.png" width="750">
 <p>
-- Results for BC04 sample
+d) Results for BC04 sample
 <p align="center">
-    <img src="files/r_generated/BC04_rnn.png" width="700">
+    <img src="files/r_generated/BC04_rnn.png" width="750">
 <p>
