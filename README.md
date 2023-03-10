@@ -45,17 +45,17 @@ We used the [rnn](https://github.com/alfbenpa/rrn_db) database "operon.100.fa" t
 
 a) Results for BC01 sample
 <p align="center">
-    <img src="files/r_generated/BC01_rnn.png" width="750">
+    <img src="files/r_generated/BC01_rnn.png" width="650">
 <p>
 b) Results for BC02 sample
 <p align="center">
-    <img src="files/r_generated/BC02_rnn.png" width="750">
+    <img src="files/r_generated/BC02_rnn.png" width="650">
 <p>
 c) Results for BC03 sample
 <p align="center">
-    <img src="files/r_generated/BC03_rnn.png" width="750">
+    <img src="files/r_generated/BC03_rnn.png" width="650">
 <p>
 d) Results for BC04 sample
 <p align="center">
-    <img src="files/r_generated/BC04_rnn.png" width="750">
+    <img src="files/r_generated/BC04_rnn.png" width="650">
 <p>
