@@ -1,6 +1,6 @@
 # Nanopore metagenomic analysis
 
-In this repository we follow the basic analysis pipeline for metagenomic samples sequenced by Oxford Nanopore Technologies. We analized 16S bacterial biomarker from whiskey samples. I followed the workflow published by [Anna Cuscó & Carlotta Cattozi](https://osf.io/cbeqj). Moreover, I used scripts developed by Nelly Selem, Paul Marquez and J. Abel Lovaco from this [repository](https://github.com/paul1000ton-coder/Whiskey--16s-analysis).
+In this repository we follow the basic analysis pipeline for metagenomic samples sequenced by Oxford Nanopore Technologies. We analized 16S bacterial biomarker from whiskey samples. I followed the workflow published by [Anna Cuscó & Carlotta Cattozi](https://osf.io/cbeqj). Moreover, I used scripts developed by [Nelly Selem](https://github.com/nselem), [Paul Marquez](https://github.com/paul1000ton-coder) and [J. Abel Lovaco](https://github.com/fabel134) from this [repository](https://github.com/paul1000ton-coder/Whiskey--16s-analysis).
 
 ## Programming languages
 - R
