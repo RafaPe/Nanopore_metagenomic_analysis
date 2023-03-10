@@ -36,9 +36,19 @@ conda install -c bioconda yacrd
 | BC04      | Z4_16S              | 5282     | 5087           | 4212                         | 4208                  |
 
 ## Taxonomy analysis result
+We used the [rnn](https://github.com/alfbenpa/rrn_db) database "operon.100.fa" to map the operons found by minimap2
 <p align="center">
     <img src="files/r_generated/BC01_rnn.png" width="300">
+<p>
+
+<p align="center">
     <img src="files/r_generated/BC02_rnn.png" width="300">
+<p>
+
+<p align="center">
     <img src="files/r_generated/BC03_rnn.png" width="300">
+<p>
+
+<p align="center">
     <img src="files/r_generated/BC04_rnn.png" width="300">
 <p>
