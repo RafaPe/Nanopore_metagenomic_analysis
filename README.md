@@ -27,7 +27,7 @@ conda install -c bioconda yacrd
 
 ## Workflow
 <p align="center">
-    <img src="figs/workflow_diagram.drawio.png" width="700">
+    <img src="figs/workflow_diagram.drawio.png" width="500">
 <p>
 
 
