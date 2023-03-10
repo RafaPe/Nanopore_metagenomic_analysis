@@ -1,6 +1,4 @@
-setwd("C:/Users/rafap/Documents/metagenomica/Whiskey--16s-analysis-main/Whiskey--16s-analysis-main/")
-
-
+setwd("../") #Set working directory
 
 knitr::opts_chunk$set(echo = TRUE)
 library(readr)
